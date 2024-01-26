@@ -1,7 +1,7 @@
-//15.Write a C program to reverse the digits of a 32-bit signed integer. >
-//Expected Output:
-//Original integer:          123
-//Reverse integer :          321
+Write a C program to reverse the digits of a 32-bit signed integer. >
+Expected Output:
+Original integer:  123
+Reverse integer :  321
 
 #include <stdio.h>
 
